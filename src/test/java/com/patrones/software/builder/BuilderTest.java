@@ -8,17 +8,23 @@ public class BuilderTest {
 
 	@Test
 	public void test1() {
-		
+
 		// SIN BUILDER
 //		Usuario user = new Usuario (username, contrasena, nombre, apellido, direccion, telefono)
-		//pregunta de examen!!!!!
-		Usuario usuario = Usuario.crearUsuario("ae.perez", "12345");
-		//pregunta de examen cual es la diferencia entre crear usuario y crear uusario con build
-		Usuario usuario2 = Usuario.crearUsuario("ae.perez", "12345")
-							.setNombre("Juan").build();
+		// pregunta de examen!!!!!
+		Usuario usuario = Usuario.crearUsuario("ae.perez", "12345").setMedioContacto(true).setDireccion("Ambato")
+				.build();
+
 		System.out.println(usuario);
-		System.out.println(usuario2);
+
+	}
+	@Test
+	public void test2() {
+
+		Usuario usuario = Usuario.crearUsuario("ae.perez", "12345").setMedioContacto(false).build();
+		System.out.println(usuario);
 		
+
 	}
 
 }
