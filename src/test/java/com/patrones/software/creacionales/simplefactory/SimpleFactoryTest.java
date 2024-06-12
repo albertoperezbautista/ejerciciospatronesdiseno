@@ -1,9 +1,9 @@
-package com.patrones.software.simplefactory;
+package com.patrones.software.creacionales.simplefactory;
 
 import org.junit.Test;
 
-import com.patrones.software.creaciones.simplefactory.Pizza;
-import com.patrones.software.creaciones.simplefactory.Pizzeria;
+import com.patrones.software.creacionales.simplefactory.Pizza;
+import com.patrones.software.creacionales.simplefactory.Pizzeria;
 
 public class SimpleFactoryTest {
 

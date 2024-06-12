@@ -1,4 +1,4 @@
-package com.patrones.software.creaciones.builder;
+package com.patrones.software.creacionales.builder;
 
 public class Usuario {
 

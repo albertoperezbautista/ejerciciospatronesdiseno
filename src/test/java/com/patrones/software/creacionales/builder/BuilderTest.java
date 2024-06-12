@@ -1,8 +1,8 @@
-package com.patrones.software.builder;
+package com.patrones.software.creacionales.builder;
 
 import org.junit.Test;
 
-import com.patrones.software.creaciones.builder.Usuario;
+import com.patrones.software.creacionales.builder.Usuario;
 
 public class BuilderTest {
 

@@ -1,1 +1,1 @@
-package com.patrones.software.abstractfactory;
+package com.patrones.software.creacionales.abstractfactory;

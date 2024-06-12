@@ -1,13 +1,13 @@
-package com.patrones.software.factorymethod;
+package com.patrones.software.creacionales.factorymethod;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-import com.patrones.software.creaciones.factorymethod.Pastel;
-import com.patrones.software.creaciones.factorymethod.PasteleriaAP;
-import com.patrones.software.creaciones.simplefactory.Pizza;
-import com.patrones.software.creaciones.simplefactory.Pizzeria;
+import com.patrones.software.creacionales.factorymethod.Pastel;
+import com.patrones.software.creacionales.factorymethod.PasteleriaAP;
+import com.patrones.software.creacionales.simplefactory.Pizza;
+import com.patrones.software.creacionales.simplefactory.Pizzeria;
 
 public class FactoryMethodTest {
 

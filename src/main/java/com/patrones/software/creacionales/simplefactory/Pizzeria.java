@@ -1,4 +1,4 @@
-package com.patrones.software.creaciones.simplefactory;
+package com.patrones.software.creacionales.simplefactory;
 
 public class Pizzeria {
 

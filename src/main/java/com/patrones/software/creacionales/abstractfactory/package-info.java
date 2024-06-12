@@ -1,4 +1,4 @@
-package com.patrones.software.creaciones.abstractfactory;
+package com.patrones.software.creacionales.abstractfactory;
 /*
  * EL ABSTRACT FACTORY NOS PROVEE DE UNA INTERFAZ, 
  * PARA CREAR FAMILIA DE OBJETOS RELACIONADOS O DEPENDIENTES.

@@ -1,4 +1,4 @@
-package com.patrones.software.creaciones.factorymethod;
+package com.patrones.software.creacionales.factorymethod;
 
 /*
  * DEFINE UNA INTERFAZ PARA LA CREACION DE UN OBJETO,

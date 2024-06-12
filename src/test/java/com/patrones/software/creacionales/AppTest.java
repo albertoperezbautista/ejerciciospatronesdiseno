@@ -1,4 +1,4 @@
-package com.patrones.software;
+package com.patrones.software.creacionales;
 
 import static org.junit.Assert.assertTrue;
 

@@ -1,4 +1,4 @@
-package com.patrones.software.creaciones.factorymethod;
+package com.patrones.software.creacionales.factorymethod;
 
 public class PastelRelleno extends Pastel{
 
