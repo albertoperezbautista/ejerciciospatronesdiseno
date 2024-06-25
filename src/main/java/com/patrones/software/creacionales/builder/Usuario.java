@@ -1,6 +1,8 @@
 package com.patrones.software.creacionales.builder;
 
-public class Usuario {
+import com.patrones.software.creacionales.abstractfactory.AppleStoreFactory;
+
+public class Usuario extends AppleStoreFactory{
 
 	// regla de negocio: Nombre y apellido es requerido para crear un usuario
 	private String username;
